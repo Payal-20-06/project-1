@@ -1,2 +1,2 @@
 # project-1
-this my first project of internship
+this  is my first project of internship
