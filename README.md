@@ -1,6 +1,4 @@
-# project-1
-this  is my first project of internship
-#project-02 
+#PROJECT-02
 In project 2 project is a Python-based data analysis task likely using the Titanic dataset (train.csv). 
 
 📥 Data Loading
